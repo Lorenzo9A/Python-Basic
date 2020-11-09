@@ -9,3 +9,19 @@ opdracht 2 = 4 * (233 * 12)
 20 * (20 - 21)
 (22 / 2) * 12
 7 * 7 / 7
+
+
+opdracht loop = 
+dag = 'Zaterdag 7 April'
+>>> print(dag)
+Zaterdag 7 April
+>>> jaar = '2020'
+>>> print(jaar)
+2020
+>>> a = dag + jaar
+>>> print(a)
+Zaterdag 7 April2020
+
+
+ for x in range(10):
+    print(a)
